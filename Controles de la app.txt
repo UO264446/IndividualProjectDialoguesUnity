@@ -1,0 +1,11 @@
+Para probar cómo funcionan los diálogos, el jugador puede moverse por el mapa creado. Hay dos formas de hacerlo:
+-Con las teclas W y S para ir hacia delante o hacia atrás y A y D para girar
+-Con el reticle pointer, apuntando y clicando en las casillas coloreadas de morado que aparecen frente a los personajes del mapa
+
+En cuanto a los diálogos:
+-El hombre que aparece en solitario tiene una conversación diseñada con el UnityDialogueSystem, que se activa automáticamente cuando el jugador se encuentra a corta distancia.
+El diálogo se pasa con la tecla "z"
+-El hombre y la mujer que aparecen en pareja tienen una conversación diseñada con el UnityDialogueSystem, que se activa cuando el jugador se encuentre a corta distancia del 
+hombre Y pulse la tecla "espacio" del teclado. El diálogo se pasa con la tecla "z"
+-La mujer que aparece en solitario tiene una conversación diseñada con el sistema de diálogos que permite múltiple opción. Para activar el panel del diálogo, hemos de clicar con
+el pointer sobre ella, y para elegir las opciones emplear de nuevo el pointer.
